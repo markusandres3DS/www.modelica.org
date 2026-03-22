@@ -351,6 +351,25 @@ Looking to the road ahead, the FMI standard continues to expand through the deve
 [{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Johan_Akesson.pdf)
 -->
 Leveraging its full-industry-chain advantages, vertical integration, and massive proprietary R&D, BYD has achieved global leadership in new energy vehicle sales. To address the growing complexity of vehicle systems while sustaining this leadership, systematic application of systems engineering methods has become essential across the product lifecycle. This keynote focuses on digital engineering practices with Modelica, exploring three interrelated areas: 1) co-simulation design and validation methodologies for highly integrated vehicle systems; 2) high-fidelity and computationally efficient modeling approaches for diverse R&D scenarios; and 3) engineering implementation of toolchain integration and virtual validation. We are currently advancing Modelica-based digital engineering practices across multiple domains: developing a whole-vehicle digital engineering co-simulation platform that integrates powertrain, thermal management, and chassis control models, realizing seamless cross-system collaborative optimization of power performance, energy efficiency, and handling stability; creating digital models for HVAC thermal management systems that accurately predict cabin thermal load and system power consumption and energy flows, significantly enhancing both energy efficiency and cabin comfort; implementing digital development processes for seat systems that enable early-stage validation of control strategies, vibration-noise characteristics, and comfort attributes through model-driven design and simulation, substantially reducing physical prototype development-cycles; and pioneering AI-Modelica integration that leverages data-driven methods to accelerate model generation, parameter identification, and calibration, substantially improving the intelligence level of complex system modeling. These practices collectively validate Modelica's critical role in complex multidisciplinary system modeling, offering a new paradigm for enhancing research and development efficiency in intelligent vehicle development.
+
+### Xu's Modeling Method: A Foundation for Hydraulic Digital Twins and Intelligent Components
+
+{{<rawhtml>}}
+<img src="images/XuYangzeng.png" alt="Xu Yangzeng" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Xu Yangzeng,** Professor, Expert with Special Allowance from the State Council,
+Editor-in-Chief of "Modern Hydraulic and Pneumatic Handbook",
+Consultant of the Expert Committee of China Hydraulic, Pneumatic and Sealing Components Industry Association
+
+<!--
+[{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Johan_Akesson.pdf)
+-->
+The Xu's Modeling Method, originating from foundational research for the HyPneu software at Oklahoma State University in the 1980s, provides an intuitive framework for hydraulic system modeling. Its core premise is to align the modeling process with engineers' cognitive paradigms. A key breakthrough was its algorithmic solution to Differential-Algebraic Equation (DAE) problems, validated through the PERSIM software developed under China's "Seventh Five-Year Plan" national project.
+The method enables model construction directly from hydraulic schematics by applying Kirchhoff's law at junctions, reducing all components to two fundamental sub-models: hydraulic resistance (throttle) and hydraulic capacitance (cylinder). This yields an implicit state equation (a DAE). The Xu's Algorithm solves this via a unified dynamic-static simulation approach, using the Newton-Raphson method iteratively to compute static states and dynamic derivatives over time steps.
+In the Digital Twin era, the method finds new relevance. Its implicit state equation serves as a potential mechanism model for digital twins, contingent on solving the inverse problem—a current research focus that may incorporate Artificial Intelligence. Additionally, the method offers a theoretical basis for creating "Hydraulic Intelligent Components," guiding the design of simpler, more efficient constructions from first principles. This positions it as an advancement over the classic Hydraulic Resistance Systematic Theory.
+Practically, the method is being applied to develop dedicated simulation and digital twin software for a hydraulic robot system manufactured in Shenzhen, demonstrating its ongoing industrial applicability.
+
 <!--
 ## Panel Discussion
 
