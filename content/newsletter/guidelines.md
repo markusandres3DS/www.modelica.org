@@ -123,15 +123,21 @@ If you commit the image together with your post, you can link it relatively, i.e
 
     ![Alt text](My-Company-logo.jpg 'Title text')
 
-The alt and title text could be omitted. Please keep in mind that the folder is shared for the whole issue and name the images specifically to your post to avoid collisions with contributions of others. E.g. if your post name is `new-version-of-FMI` use `new-version-of-FMI-logo.png` instead of just `logo.png` to avoid conflicts.
-
+The alt and title text could be omitted. Please keep in mind, that the folder is shared for the whole issue and name the images specifically to your post to avoid collisions with contributions of others.
+E.g. if you post name is `new-version-of-FMI` use `new-version-of-FMI-logo.png` instead of just `logo.png` to avoid conflicts.
+    
 ### Headings
 
-Please use **`####` (4rd level heading)** for both the title of your post and any sub-headings within it, e.g.
+Please use **3rd level heading** for title of your post.
+Use **4th level heading** for any headings within your posts, e.g.
 
-    #### orchideo | easySSP v1.4.4 now available
+    ### Announcing new WorldPeace Modelica library
 
-    Content of your post...
+    Lorem ipsum...
+
+    #### Compatibility issues
+
+    Dolor sit amet...
 
     #### New features in detail
 
@@ -168,7 +174,7 @@ In the previous system each contribution was a standalone Markdown file with a h
 
 The same post is now a section within the shared `_index.md` file. Paste it directly above the `<!-- END Vendor news -->` marker:
 
-    #### orchideo | easySSP v1.4.4 now available
+    ### orchideo | easySSP v1.4.4 now available
 
     ![easySSP 1.4.4](easySSP1_4_4.png)
 
