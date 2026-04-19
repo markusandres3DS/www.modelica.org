@@ -456,7 +456,7 @@ As a renowned historical and cultural city with a history spanning over 2,000 ye
 - The [5th Global Digital Trade Expo](https://www.gdte.org.cn/En/) (GDTE)	, September 23-27, 2026 at Hangzhou Grand Convention and Exhibition Center,	Co-hosted by Zhejiang Provincial Government and Ministry of Commerce; China's only national-level, global professional exhibition themed on digital trade. Expected 1,546+ exhibitors, 200,000+ visitors, 155,000 sqm exhibition space, with 100+ world premieres and new product launches. [EXPO Headline](https://www.gdte.org.cn/En/content/content_9206914.html).
 - The [2nd ISSE International Smart Space Exhibition](https://www.isse-expo.com),	September 23-27, 2026	at Hangzhou Grand Convention and Exhibition Center,	co-hosted by Messe Frankfurt (HK) Ltd and Hangzhou Convention & Exhibition Group; held concurrently with GDTE, focusing on smart space technology and urban governance solutions.
 
-<!--
+
 ## Registration
 
 **[Registration is now open at Bageventfrog](https://www.bagevent.com/event/9178303)**. Please register soon to make planning easy for us. Early Bird tickets will be available until July 31. The conference registration is offered at the following conditions.
@@ -467,7 +467,7 @@ As a renowned historical and cultural city with a history spanning over 2,000 ye
 | Student                      | Mon-Tue      | yes          |  750 CNY    |  750 CNY|
 | Conference Dinner            | Dinner       | yes          |  225 CNY    |  300 CNY|
 
-
+<!--
 Under the following link, conference participants will find a **[limited contingent of hotels in Lucerne and Rotkreuz at discounted rates.](https://regis.buchertravel.ch/event/International_Modelica_Conference2025)** Please use the search window to view all available hotels and prices. We would like to point out that Lucerne offers significantly more tourist attractions than Rotkreuz. However, Lucerne is in high season during the conference, so accommodation costs may be higher. Cheaper alternatives can be found, for example, in youth hostels in the city of Lucerne, Airbnbs, or hotels in the vicinity of Lucerne and Rotkreuz with good rail connections.
 
 -->
