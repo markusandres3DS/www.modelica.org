@@ -49,17 +49,7 @@ issued on March 5, 2026
 {{</rawhtml>}}
 
 ## Vendor news
-
-<!-- END Vendor news -->
-
-{{<rawhtml>}}
-<div class="masthead-followup-icon d-inline-block mt-5">
-    <i class="fa-solid fa-book" style="font-size:50px"></i>
-</div>
-{{</rawhtml>}}
-
-## News from libraries
-### Sustainable Supply Systems Library Update
+### Dymola Sustainable Supply Systems Library Update
 
 ![Screenshot of "ElectricityAndFuelPriceTracking"](./3DS_Susy110.png)
 
@@ -78,6 +68,16 @@ Key new features and changes include:
   - Green ammonia with ammonia plant component
 
 This article is provided by Markus Andres ([Dassault Systemes Austria GmbH](https://www.3ds.com/))
+<!-- END Vendor news -->
+
+{{<rawhtml>}}
+<div class="masthead-followup-icon d-inline-block mt-5">
+    <i class="fa-solid fa-book" style="font-size:50px"></i>
+</div>
+{{</rawhtml>}}
+
+## News from libraries
+
 <!-- END News from libraries -->
 
 {{<rawhtml>}}
