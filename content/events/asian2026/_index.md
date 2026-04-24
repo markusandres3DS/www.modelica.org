@@ -14,9 +14,9 @@ We announce the **Asian Modelica & FMI Conference 2026**.
 It will take place at the high-tech city of **Hangzhou, China from September 21-22, 2026** also famous of its stunning west lake scenery.
 It is organized by the [Beihang University (at Hangzhou campus)](https://zfaien.buaa.edu.cn/About_Us/Overview.htm) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
 This is the first visit of the conference series in China.
-
+<!--
 ![Hangzhou West Lake](images/Westlake.png)
-
+-->
 {{< toc >}}
 
 
@@ -37,8 +37,8 @@ In addition to paper presentations, the conference features several Modelica tut
 |   |   |
 |---|---|
 |December 12, 2025 |Call for papers |
-|April 30, 2026 |Deadline for scientific paper submissions|
-|June 15, 2026 | Notification of acceptance for scientific papers and presentations |
+|May 15, 2026 |Deadline for scientific paper submissions (extended)|
+|June 30, 2026 | Notification of acceptance for scientific papers and presentations |
 |June 30, 2026 | Deadline for submission of industrial user presentations|
 |June 30, 2026  | Deadline for submission of vendor presentations  |
 |July 15, 2026  | Notification of acceptance for industrial user presentations  |
@@ -80,8 +80,11 @@ In line with conference tradition, the proceedings will be published by [Linköp
 Recommended authors are required to revise and restructure their manuscripts to comply with IJMSSC’s specific formatting guidelines and complete the journal’s subsequent peer review process. All associated publication costs shall be borne by the authors.
 
 For industrial participants, in addition to submitting scientific papers, you may opt to present an industrial case study/presentation. For this category, only an abstract is required, with submissions due by June 30, 2026. Please note that these industrial presentations will not be included in the conference proceedings nor considered for the IJMSSC Special Issue.
-
-You can also [download the Call for papers](CfP_Asian_2026.pdf) and post it in your organization. The submission of your paper will be handled through the EasyChair Conference Management System. Paper submission is open on [EasyChair](https://easychair.org/conferences/?conf=amfc2026) 
+<!--
+You can also download the [Call for papers](CFP-Asian_2026rev1.pdf) and post it in your organization. 
+ -->
+The submission of your paper will be handled through the EasyChair Conference Management System. 
+Paper submission is open on [EasyChair](https://easychair.org/conferences/?conf=amfc2026) 
 
 <!--
  Please see the  [Authors' Guide](#authors-guide) for further information.
@@ -449,25 +452,25 @@ Most common International Travel:
 
 Further travel advice for international guests will follow soon.
 
-<!--
-## Technical Events in September 2026 at Hangzhou
-- The [5th Global Digital Trade Expo](https://www.gdte.org.cn/En/) (GDTE)	, September 23-27, 2026 at Hangzhou Grand Convention and Exhibition Center,	Co-hosted by Zhejiang Provincial Government and Ministry of Commerce; China's only national-level, global professional exhibition themed on digital trade. Expected 1,546+ exhibitors, 200,000+ visitors, 155,000 sqm exhibition space, with 100+ world premieres and new product launches. 
+
+## Hangzhou Attractions
+As a renowned historical and cultural city with a history spanning over 2,000 years, Hangzhou boasts abundant [historical heritages and profound cultural traditions](https://www.chinahighlights.com/hangzhou/attraction/). We hope this site helps you arrange your trip for the conference. Additionally, there are several technical events following the conference that are worth visiting.
+
+- The [5th Global Digital Trade Expo](https://www.gdte.org.cn/En/) (GDTE)	, September 23-27, 2026 at Hangzhou Grand Convention and Exhibition Center,	Co-hosted by Zhejiang Provincial Government and Ministry of Commerce; China's only national-level, global professional exhibition themed on digital trade. Expected 1,546+ exhibitors, 200,000+ visitors, 155,000 sqm exhibition space, with 100+ world premieres and new product launches. [EXPO Headline](https://www.gdte.org.cn/En/content/content_9206914.html).
 - The [2nd ISSE International Smart Space Exhibition](https://www.isse-expo.com),	September 23-27, 2026	at Hangzhou Grand Convention and Exhibition Center,	co-hosted by Messe Frankfurt (HK) Ltd and Hangzhou Convention & Exhibition Group; held concurrently with GDTE, focusing on smart space technology and urban governance solutions.
-- Apsara Conference 2026 (Hangzhou Cloud Computing Expo),	September 1, 2026	at Hangzhou Cloud Town,hosted by Alibaba Cloud; China's annual flagship event for cloud computing and AI industry chain, featuring a 40,000 sqm intelligent technology exhibition area with three themed pavilions: AI+, Computing, and Frontier Applications, showcasing LLMs, autonomous driving, robotics and other cutting-edge technologies
 
-## Registration and Accommodation
 
-**[Registration is now open at Eventfrog](https://eventfrog.ch/en/p/fairs/congress-conference/the-16th-international-modelica-fmi-conference-7297164051792011009.html)**. Please register soon to make planning easy for us. Early Bird tickets will be available until July 7th. The conference registration is offered at the following conditions.
+## Registration
+
+**[Registration is now open at Bageventfrog](https://www.bagevent.com/event/9178303)**. Please register soon to make planning easy for us. Early Bird tickets will be available until July 31. The conference registration is offered at the following conditions.
 
 | Registration                 | Valid        | incl. Dinner | Early-Price | Price   |
 |------------------------------|--------------|:------------:|------------:|--------:|
-| Standard                     | Mon-Wed      | yes          | 750 CHF     | 900 CHF |
-| PhD-Candidate                | Mon-Wed      | no           | 400 CHF     | 500 CHF |
-| Non-PhD-Student              | Mon-Wed      | no           | 200 CHF     | 250 CHF |
-| Conference Dinner            | Dinner       | yes          | 150 CHF     | 150 CHF |
+| Standard                     | Mon-Tue      | yes          | 1875 CNY    | 2500 CNY|
+| Student                      | Mon-Tue      | yes          |  750 CNY    |  750 CNY|
+| Conference Dinner            | Dinner       | yes          |  225 CNY    |  300 CNY|
 
-The conference will take place at the [Rotkreuz campus](https://dock.hslu.ch/rundgang/index.html?startscene=i)  of Lucerne University of Applied Sciences and Arts, which can be reached in as little as 13 minutes by train from Lucerne railroad station. We recommend taking the train to the campus, as the campus is located directly at Rotkreuz station. The university cannot provide parking spaces in Rotkreuz. There are parking spaces in the vicinity of the campus whose availability and prices are not subject to the university. 
-
+<!--
 Under the following link, conference participants will find a **[limited contingent of hotels in Lucerne and Rotkreuz at discounted rates.](https://regis.buchertravel.ch/event/International_Modelica_Conference2025)** Please use the search window to view all available hotels and prices. We would like to point out that Lucerne offers significantly more tourist attractions than Rotkreuz. However, Lucerne is in high season during the conference, so accommodation costs may be higher. Cheaper alternatives can be found, for example, in youth hostels in the city of Lucerne, Airbnbs, or hotels in the vicinity of Lucerne and Rotkreuz with good rail connections.
 
 -->
@@ -663,7 +666,7 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
 - **Prof. Yanfang Liu**, Beihang University, Program Chair
 - **Prof. WeiLin Li**, Northwestern Polytechnical University, Publicity Co-Chair
 - **Dr. OU Haiying**, China SAE Automobile Model Digital Engineering Branch, Publicity Co-Chair
-- **Dr. Hong Lü**, China General Nuclear Power Corporation(CGN), Publicity Co-Chair
+- **Dr. Hong Lü**, State Key Laboratory of Nuclear Power Safety Technology and Equipment, Publicity Co-Chair
 
 ### Conference Advisory Board
 

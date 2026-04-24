@@ -223,7 +223,7 @@ The following organizations are members of the Modelica Association:
 
 ## Individual Members of the Modelica Association
 
-Currently the Modelica Association has 130 individual members.
+Currently the Modelica Association has 132 individual members.
 
 The following members have given the consent to appear publicly.
 
@@ -236,6 +236,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | [Asghar, Adeel](https://www.ida.liu.se/~adeas31/)                | [PELAB, IDA, Linköping University](https://openmodelica.org/)                       | LANG     |
 | [Bachmann, Bernhard](https://www.fh-bielefeld.de/personenverzeichnis/bernhard-bachmann) | [Hochschule Bielefeld](http://www.fh-bielefeld.de/)                                 | LANG     |
 | Bäuml, Thomas       | [AIT Austrian Institute of Technology](http://www.ait.ac.at/)                       |          |
+| Bellmann, Tobias       | [DLR](https://www.dlr.de/)                       |          |
 | [Bernardin, Laurent](https://www.linkedin.com/in/bernardin/)          | [Maplesoft](http://www.maplesoft.com)                                              |          |
 | Bertsch, Christian  | [Robert Bosch GmbH](http://www.bosch.com/)                                         |          |
 | Beuter, Volker      | [VI-Grade GmbH](http://www.vi-grade.com)                                            |          |
@@ -284,7 +285,7 @@ If you want to contact a member via email, please ask [backoffice@modelica.org](
 | Köhler, Jochen      | [ZF Friedrichshafen AG](http://www.zf.com)                                          |          |
 | [Kral, Christian](https://christiankral.net/)                      | [Mechatroniker für Elektromaschinenbau und Automatisierung](https://christiankral.net/)| LANG, LIB |
 | Krammer, Martin     | [Knorr-Bremse](http://www.knorr-bremse.com)                                         |          |
-| [Kulhánek, Tomáš](https://tomaskulhanek.github.io/)   | [VITO](https://vito.be/en)                                   |  |
+| [Kulhánek, Tomáš](https://tomaskulhanek.github.io/)   | [VITO](https://vito.be/en)                                   | LIB |
 | Kurzbach, Gerd      | [ESI ITI GmbH](https://www.simulationx.com/)                                        | LANG     |
 | Lambert, Quentin    |                                                                                     | LANG     |
 | Landgren, Ben       | [PerformanSea](https://performansea.com/)                                           | LANG     |
